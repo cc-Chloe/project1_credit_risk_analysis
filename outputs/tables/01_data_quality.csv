@@ -1,0 +1,12 @@
+﻿,dtype,missing,missing_rate_pct,nunique
+SeriousDlqin2yrs,int64,0,0.0,2
+credit_utilization,float64,0,0.0,125728
+age,int64,0,0.0,86
+late_30_59,int64,0,0.0,16
+debt_ratio,float64,0,0.0,114194
+monthly_income,float64,29731,19.82,13595
+open_credit_lines,int64,0,0.0,58
+late_90_plus,int64,0,0.0,19
+real_estate_loans,int64,0,0.0,28
+late_60_89,int64,0,0.0,13
+dependents,float64,3924,2.62,14
